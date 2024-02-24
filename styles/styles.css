@@ -1,0 +1,12 @@
+.image-section {
+ 
+    float: left;
+
+}
+#inspo-image img{
+    max-width: 45%;
+}
+.style-guide {
+    
+    float: right;
+}
